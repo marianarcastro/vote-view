@@ -1,0 +1,19 @@
+body {
+    background-color: #534292;
+}
+
+.card {
+    width: 25rem;
+    justify-content: center;
+    margin-left: 30rem;
+}
+
+.btn {
+    margin: 0.75rem;
+    margin-left: 6rem;
+    width: 9rem;
+}
+
+.form-control {
+    margin-top: 0.75rem;
+}
